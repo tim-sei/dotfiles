@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tim.seifert@gmx.de
+	name = Tim Seifert
